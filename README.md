@@ -82,8 +82,3 @@ Pretrained EfficientNetB0 used as a feature extractor with a custom classificati
 
 ---
 
-## 📬 Contact
-
-**Author:** [Your Name]  
-**Email:** [your.email@example.com]  
-**Institution:** [Your College/University Name]
